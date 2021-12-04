@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "_expo",
-    "slug": "_expo",
+    "name": "Consultor Académico",
+    "slug": "consultor-academico",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,6 +9,10 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#4b0082",
+      "translucent": false
     },
     "updates": {
       "fallbackToCacheTimeout": 0
